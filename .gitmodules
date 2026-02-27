@@ -10,3 +10,6 @@
 [submodule "LxgwWenKai"]
 	path = LxgwWenKai
 	url = https://github.com/lxgw/LxgwWenKai
+[submodule "LxgwWenkaiGB"]
+	path = LxgwWenkaiGB
+	url = https://github.com/lxgw/LxgwWenkaiGB.git
